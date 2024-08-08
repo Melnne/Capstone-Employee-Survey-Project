@@ -45,12 +45,12 @@ The first i did was download the CSV file and import it into power Query Editor.
 
 ### Results and Findings
 
--According to the survey most of the  respondents  agree  that their department is inclusive and support of a diverse workforce, this indicate that the departments do not discriminate and are supportive of employee differences.
- -Most of the  respondent disagree that they have a best friend at work This shows lack of team bonding exercise within the organization
--Across roles supervisors has the highest number of respondents (1662), followed by  staff (1250), then manager (1071) and then directors(170). This information indicates that the supervisors and mangers encouraged the staffs to take part in the survey and they did so by leading by example.
--Supervisors, managers, directors and staffs all strongly agree that they know what is expected of them indicating an effective onboarding system and a clearly defined roles and responsibilities in the organization.
--Supervisors, managers and staffs all strongly agree that their supervisor or someone at work seems to care about them as a person showing that employee welfare is top priority for the leaders in the organization
--Most of the respondents strongly disagree that in the last seven days they have received praise or recognition for doing good work, showing a lack of reward system to keep the employees motivated at their job
+- According to the survey most of the  respondents  agree  that their department is inclusive and support of a diverse workforce, this indicate that the departments do not discriminate and are supportive of employee differences.
+- Most of the  respondent disagree that they have a best friend at work This shows lack of team bonding exercise within the organization
+- Across roles supervisors has the highest number of respondents (1662), followed by  staff (1250), then manager (1071) and then directors(170). This information indicates that the supervisors and mangers encouraged the staffs to take part in the survey and they did so by leading by example.
+- Supervisors, managers, directors and staffs all strongly agree that they know what is expected of them indicating an effective onboarding system and a clearly defined roles and responsibilities in the organization.
+- Supervisors, managers and staffs all strongly agree that their supervisor or someone at work seems to care about them as a person showing that employee welfare is top priority for the leaders in the organization
+- Most of the respondents strongly disagree that in the last seven days they have received praise or recognition for doing good work, showing a lack of reward system to keep the employees motivated at their job
 
 ### Recommendation
 
