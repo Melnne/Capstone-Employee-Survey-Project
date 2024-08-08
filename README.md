@@ -4,7 +4,7 @@
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tool](#tool)
-- [Data Cleaning/Preparation](#data-cleaning-preparation)
+- [Data Cleaning/Preparation](#data-cleaning/preparation)
 - [Exploratory Data Analysis](#exploratory-Data-Analysis)
 - [Data Analysis](#data-analysis)
 - [Results and Findings](#Results-and-Findings)
@@ -18,7 +18,7 @@ This data analysis project provides a comprehensive review of the responses gath
 
 ### Data Source
 
-The dataset used for this analysis was provided by the training institution i am training with, Digitaley Drive. The data contained The survey questions and the responses given by the employees of the organization. 
+The dataset used for this analysis was provided by the training institution i am training with, **Digitaley Drive**. The data contained The survey questions and the responses given by the employees of the organization. 
 
 ### Tool
 
