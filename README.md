@@ -14,6 +14,8 @@
 
 This data analysis project provides a comprehensive review of the responses gathered from government workerd. The survey aims to assess levels of employee satisfaction, identify areas of improvement, identify patterns and trends and make-data driven recommendation
 
+![Employee Survey](https://github.com/user-attachments/assets/4f3feb50-9a5b-48b0-a5e0-38a564a1a271)
+
 ## Data Source
 
 The dataset used for this analysis was provided by the training institution i am training with, Digitaley Drive. The data contained The survey questions and the responses given by the employees of the organization. 
