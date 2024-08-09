@@ -22,7 +22,7 @@ The dataset used for this analysis was provided by the training institution i am
 
 ### Tool
 
-The tool used  for this analysis was powerbi only 
+PowerBI 
 
 This tool was used for the data cleaning, analysis and the creation of the dashboard.
 
@@ -37,12 +37,12 @@ In the initial prepartion phase i performed the following task:
 
 - Which survey questions did respondents agree with or disagree with most?
 - Is there any patterns or trends by department or role?
-- As an employer, what steps might you take to improve employee satisfaction based on the survey
+- As an employer, what steps might I take to improve employee satisfaction based on the survey
 results?
 
 ### Data Analysis
 
-The first i did was download the CSV file and import it into power Query Editor. I noticed There are some empty cells(null values) and the data types of some of the columns were incorrect. I went ahead and  replaced the  empty cells on the response column and response text column and changed the data types of the incorrect columns.
+The first thing i did was download the CSV file and import it into power Query Editor. I noticed There are some empty cells(null values) and the data types of some of the columns were incorrect. I went ahead and  replaced the  empty cells on the response column and response text column and changed the data types of the incorrect columns.
 
 ### Results and Findings
 
