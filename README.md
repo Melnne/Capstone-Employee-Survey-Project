@@ -12,7 +12,7 @@
 
 ### Project Overview
 
-This data analysis project provides a comprehensive review of the responses gathered from government workerd. The survey aims to assess levels of employee satisfaction, identify areas of improvement, identify patterns and trends and make-data driven recommendation
+This data analysis project provides a comprehensive review of the responses gathered from government workers. The survey aims to assess levels of employee satisfaction, identify areas of improvement, identify patterns and trends and make-data driven recommendation
 
 [Dashboard](https://github.com/user-attachments/assets/75a0076b-998e-44b4-9e19-7b4ea3455bd1)
 
@@ -35,13 +35,13 @@ In the initial prepartion phase i performed the following task:
 ### Exploratory Data Analysis
 
 - Which survey questions did respondents agree with or disagree with most?
-- Do you see any patterns or trends by department or role?
+- Is there any patterns or trends by department or role?
 - As an employer, what steps might you take to improve employee satisfaction based on the survey
 results?
 
 ### Data Analysis
 
-The first i did was download the CSV file and import it into power Query Editor. I noticed There are some empty cells(null values) and data types of some of the columns were incorrect.i went ahead replaced the  empty cells on the response column and response text column and changed the data types of the incorrect columns.
+The first i did was download the CSV file and import it into power Query Editor. I noticed There are some empty cells(null values) and the data types of some of the columns were incorrect. I went ahead and  replaced the  empty cells on the response column and response text column and changed the data types of the incorrect columns.
 
 ### Results and Findings
 
