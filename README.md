@@ -42,7 +42,7 @@ results?
 
 ### Data Analysis
 
-The first thing i did was to download the CSV file and import it into power Query Editor. I noticed There are some empty cells(null values) and the data types of some of the columns were incorrect. I went ahead and  replaced the  empty cells on the response column and response text column and changed the data types of the incorrect columns. Afterwards I went ahead  to create an insightful data visualization using PowerBI dashboard. The dashboard consisted of 7 cards which contained information such as the No of responses(14725), No of questions asked(11), No of department(21), No of staff(1250) No of managers(1071), No of supervisors(1662) and number of directors(170). 2 slicers, 1 clustered bar chart, 1 clustered column chart and 4 area charts.
+The first thing i did was to download the CSV file and import it into power Query Editor. I noticed There are some empty cells(null values) and the data types of some of the columns were incorrect. I went ahead and  replaced the  empty cells on the response column and response text column and changed the data types of the incorrect columns. Afterwards I went ahead  to create an insightful data visualization using PowerBI dashboard. The dashboard consisted of 7 cards which contained information such as the No of responses(14725), No of questions asked(11), No of department(21), No of staff(1250), No of managers(1071), No of supervisors(1662), and number of directors(170). 2 slicers, 1 clustered bar chart, 1 clustered column chart and 4 area charts.
 
 ### Results and Findings
 
