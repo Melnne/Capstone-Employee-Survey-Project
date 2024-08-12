@@ -1,13 +1,13 @@
 # Employee Survey Analysis
 
 ### Table of Content
-- [Introduction](#introductio)
-- [Problem/statement](#problem/statement)
-- [Skills/Demonstrated](#skills/emonstrated)
+- [Introduction](#introduction)
+- [Problem statement](#problem-statement)
+- [Skills Demonstrated](#skills-dmonstrated)
 - [Data Source](#data-source)
 - [Tool](#tool)
-- [Data/Transformation](#data/transformation)
-- [Results/and/Findings](#Findings)
+- [Data Transformation](#data-transformation)
+- [Results and Findings](#Results-and-Findings)
 - [Recommendation](#recommendation)
 
 ### Project Overview
