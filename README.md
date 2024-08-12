@@ -1,13 +1,13 @@
 # Employee Survey Analysis
 
 ### Table of Content
-- [Project Overview](#project-overview)
+- [Introduction](#introductio)
+- [Problem/statement](#problem/statement)
+- [Skills/Demonstrated](#skills/emonstrated)
 - [Data Source](#data-source)
 - [Tool](#tool)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
-- [Exploratory Data Analysis](#exploratory-Data-Analysis)
-- [Data Analysis](#data-analysis)
-- [Results and Findings](#Results-and-Findings)
+- [Data/Transformation](#data/transformation)
+- [Results/and/Findings](#Findings)
 - [Recommendation](#recommendation)
 
 ### Project Overview
@@ -15,6 +15,19 @@
 This data analysis project provides a comprehensive review of the responses gathered from government workers. The survey aims to assess levels of employee satisfaction, identify areas of improvement, identify patterns and trends and make-data driven recommendation
 
 [Dashboard](https://github.com/user-attachments/assets/75a0076b-998e-44b4-9e19-7b4ea3455bd1)
+
+
+### Problem Statement 
+- Which survey questions did respondents agree with or disagree with most?
+- Is there any patterns or trends by department or role?
+- As an employer, what steps might I take to improve employee satisfaction based on the survey
+results?
+
+### Skills Demonstrated
+- Data transformation
+- Data cleaning
+- Visualization
+- Filters
 
 ### Data Source
 
@@ -35,12 +48,9 @@ In the initial prepartion phase i performed the following task:
 
 ### Exploratory Data Analysis
 
-- Which survey questions did respondents agree with or disagree with most?
-- Is there any patterns or trends by department or role?
-- As an employer, what steps might I take to improve employee satisfaction based on the survey
-results?
 
-### Data Analysis
+
+### Data Transformation
 
 The first thing i did was to download the CSV file and import it into power Query Editor. I noticed There are some empty cells(null values) and the data types of some of the columns were incorrect. I went ahead and  replaced the  empty cells on the response column and response text column and changed the data types of the incorrect columns. Afterwards I went ahead  to create an insightful data visualization using PowerBI dashboard. The dashboard consisted of 7 cards which contained information such as the No of responses(14725), No of questions asked(11), No of department(21), No of staff(1250), No of managers(1071), No of supervisors(1662), and number of directors(170). 2 slicers, 1 clustered bar chart, 1 clustered column chart and 4 area charts.
 
