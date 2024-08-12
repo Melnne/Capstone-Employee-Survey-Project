@@ -10,11 +10,12 @@
 - [Results and Findings](#Results-and-Findings)
 - [Recommendation](#recommendation)
 
-### Project Overview
+### Introduction
 
 This data analysis project provides a comprehensive review of the responses gathered from government workers. The survey aims to assess levels of employee satisfaction, identify areas of improvement, identify patterns and trends and make-data driven recommendation
 
-[Dashboard](https://github.com/user-attachments/assets/75a0076b-998e-44b4-9e19-7b4ea3455bd1)
+![Employee Survey Dashboard](https://github.com/user-attachments/assets/e8765913-2c8b-43d5-a222-9265341405b1)
+
 
 
 ### Problem Statement 
