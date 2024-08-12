@@ -16,8 +16,6 @@ This data analysis project provides a comprehensive review of the responses gath
 
 ![Employee Survey Dashboard](https://github.com/user-attachments/assets/e8765913-2c8b-43d5-a222-9265341405b1)
 
-
-
 ### Problem Statement 
 - Which survey questions did respondents agree with or disagree with most?
 - Is there any patterns or trends by department or role?
@@ -39,17 +37,6 @@ The dataset used for this analysis was provided by the training institution i am
 PowerBI 
 
 This tool was used for the data cleaning, analysis and the creation of the dashboard.
-
-### Data Cleaning/Preparation 
-
-In the initial prepartion phase i performed the following task:
-1. Data import and transformation
-2. Handling missing values
-3. Data cleaning and formating
-
-### Exploratory Data Analysis
-
-
 
 ### Data Transformation
 
